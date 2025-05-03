@@ -1,0 +1,8 @@
+langchain_community
+langchain_huggingface
+langchain_core
+langchain
+langchain_text_splitters
+duckduckgo_search
+pydantic
+chromadb
